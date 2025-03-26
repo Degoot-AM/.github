@@ -1,8 +1,8 @@
 ## The Data Science Cluster
 
-Data Science is a new cluster within the Research Services. The cluster’s
+Data Science is a new cluster within the Medical Research Council (MRC) unit The Gambia at London School for Hygiene & Tropical Medicine (LSHTM). The cluster’s
 Data Science and Artificial Intelligence (AI) ecosystem includes the following
-three (3) departments and Center:
+four departments and Center:
 
 1. Applications Development & e-Health (ADH)
 2. Data Management & Architecture (DMA)
@@ -11,12 +11,12 @@ three (3) departments and Center:
 
 With the increased complexity of data sources, bioinformatics research and the
 emergence of e-health and artificial intelligence, the present strategic
-plan of MRCG (henceforth referred to as the Unit) re-organized the established
-departments as the key components of a Data Science centre of excellence. This will
+plan of MRCG Unit is to re-organized the established
+departments as  key components of a Data Science centre of excellence. This will
 help to diversify the traditional quantitative role that these
-departments have had in the past as research support for publication.
+departments have had in the past as support for research services.
 
-In addition to the current research support, the new Data Science Cluster will
+In addition to the current research support, the new data science cluster will
 undertake research using cutting-edge methods and applications of machine learning
 with a focus on health and bio-medical problems and translate the
 academic work of the Unit into tangible e-health and AI public health solutions.
